@@ -17,6 +17,7 @@ of trading activity is yourself.
 I glance on many other sources and one of them is:
 
 https://robinhood.com/us/en/
+
 https://www.myfxbook.com/
 
 When you made an order. The broker, in real-time, can create a trendline from all the
