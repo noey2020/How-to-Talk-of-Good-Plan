@@ -24,7 +24,7 @@ When you made an order. The broker, in real-time, can create a trendline from al
 posting of orders. The broker can see trading activity and can update all positions as
 to when to sell or buy. 
 
-When is a noticeable tumble, you start shorting. Ane when shorting, you can sell at
+When there is a noticeable tumble, you start shorting. And when shorting, you can sell at
 different price points. Glancing on many other sources is like sentiment analysis.
 Glancing enables you to track, compare, analyze and share your trading activity.
 
